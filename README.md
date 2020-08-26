@@ -1,1 +1,1 @@
-# ativ_15_functional_programming
+# Activity 14 - Functional programming
